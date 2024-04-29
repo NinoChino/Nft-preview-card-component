@@ -1,0 +1,140 @@
+{
+  "todos": [
+    {
+      "id": "84d1",
+      "task": "prepare for exams",
+      "completed": false
+    },
+    {
+      "id": "48d2",
+      "task": "prepare for exams",
+      "completed": false
+    },
+    {
+      "id": "3f01",
+      "task": "prepare for exams",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "nino",
+      "borrowedBooks": []
+    },
+    {
+      "id": "defb",
+      "name": "samueli",
+      "borrowedBooks": []
+    },
+    {
+      "id": "112d",
+      "name": "wiliami",
+      "borrowedBooks": []
+    },
+    {
+      "id": "7cd5",
+      "logIn": "nino",
+      "password": 12345678
+    }
+  ],
+  "books": [
+    {
+      "id": "c0a2",
+      "name": "the great gatsby",
+      "author": "f. scott fitzgerald"
+    },
+    {
+      "id": "0480",
+      "name": "to kill a mockingbird",
+      "author": "harper lee"
+    },
+    {
+      "id": "b96e",
+      "name": "1984",
+      "author": " george orwell"
+    }
+  ],
+  "usersProfile": [
+    {
+      "id": "1",
+      "name": "giga",
+      "age": 33,
+      "contactinfo": "ninomtsituridze@gmail.com",
+      "mobile": 55555
+    }
+  ],
+  "note": [
+    {
+      "id": "1",
+      "message": "hello"
+    }
+  ],
+  "todo": [
+    {
+      "id": "1",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "3",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "4",
+      "task": "fetch api",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "task": "hello nino",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "3",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "4",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "5",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "6",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "3",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "4",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "5",
+      "task": "fetch api",
+      "completed": "true"
+    },
+    {
+      "id": "6",
+      "task": "fetch api",
+      "completed": "true"
+    }
+  ]
+}
