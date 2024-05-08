@@ -1,0 +1,194 @@
+/* *{
+    box-sizing: border-box;
+    font-family: "Hanken Grotesk", sans-serif;
+}
+
+.body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.Desktop{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: #ecf2ff;
+    flex-grow: 0;
+    box-sizing: border-box;
+   
+}
+.Rectangle {
+    width: 736px;
+    height: 512px;
+    flex-grow: 0;
+    margin: 24px 0 0 23px;
+    border-radius: 32px;
+    box-shadow: 0 30px 60px 0 rgba(61, 108, 236, 0.15);
+    background-color: #fff;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: 209px;
+    display: flex;
+    }
+
+.Rectangle-2 {
+    width: 50%;
+    height: 100%;
+    flex-grow: 0;
+    border-radius: 32px;
+    background-image:linear-gradient(to bottom, #75f, #6943ff, #2f2ce9);
+    transform: translate(-23px, -24px);
+    text-align: center;
+    }
+
+    .summary{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    color: #303b59;
+    padding: 37px 24px;
+    } 
+
+    .Rectangle-4{
+    background-color: #fff7f7;
+    width: 284px;
+    height: 56px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+
+    }
+
+    .Reaction{
+    text-align: left;
+    color: #f55;
+    background-image: url(./images/icon-reaction.svg);
+    background-repeat: no-repeat;
+    padding-left: 44px;
+    font-family: "Hanken Grotesk", sans-serif;;
+    font-size: 18px;
+    font-weight: 500;
+    background-position: 20px center;
+    }
+    .r80{
+    text-align: right;
+    color: #303b59;
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+    .r100{
+    text-align: right;
+    color: #303b59;
+    opacity: 0.5;
+    font-size: 18px;
+    font-weight: bold;
+    }
+   .r80-100{
+    margin-right: 20px;
+   }
+
+   .Rectangle-4.second{
+    background-color: #fffcf4;
+   }
+
+   .second .Reaction{
+    background-image: url(./images/icon-memory.svg);
+    color: #ffb21e;
+   }
+
+   .Rectangle-4.verbal{
+    background-color: #f3fcfa;
+   }
+   .verbal .Reaction{
+    background-image: url(./images/icon-verbal.svg);
+    color: #00bb8f;
+   }
+
+   .Rectangle-4.visual{
+    background-color: #f4f5fd;
+   }
+   .visual .Reaction{
+    background-image: url(./images/icon-visual.svg);
+    color: #1125d6;
+   }
+
+   .Result{
+    font-size: 24px;
+    font-weight: bold;
+    color: #d9d9d9;
+    padding: 38px 110px
+   }
+
+   .Oval{
+    margin: auto;
+    padding: 55px 60px 46px 59px;
+    background-image:linear-gradient(to bottom, #4d21c9, rgba(63, 33, 201, 0.64) 33%, rgba(37, 33, 201, 0.1) 67%, rgba(37, 33, 201, 0.1) 67%);
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-position: center;
+    
+
+   }
+
+   .r76{
+    text-align: center;
+  color: #fff;
+  font-size: 72px;
+  font-weight: 800;
+   }
+
+   .of-100{
+    text-align: left;
+    color: #cac9ff;
+    opacity: 0.52;
+    font-size: 18px;
+   }
+   .Great{
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 40px 91px 92px 86px;
+    
+
+
+   }
+   .text{
+    width: 260px;
+    height: 69px;
+    color: #cac9ff;
+    font-size: 18px;
+    font-weight: 500;
+   margin: 14px 54px 55px 14px;
+   display: flex;
+   
+   
+   }
+
+   .great-text{
+    margin: 20px 44px 46px 40px;
+    
+   }
+
+   .Rectangle-4.continue{
+    border-radius: 128px;
+    background-color: #303b59;
+    text-align: center;
+    margin: 41px 0 0;
+   }
+   .continue{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    justify-content: space-around;
+   
+   } */
+   
+   
